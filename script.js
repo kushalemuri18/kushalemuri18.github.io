@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "fake-news-nlp": "https://github.com/kushalemuri18/Fake-News-Detection",
     "scheme-recommendation": "https://github.com/kushalemuri18/AI-based-Scheme-Recommendation-System",
     "siem-pipeline": "https://github.com/kushalemuri18/Automation-Pipeline-SIEM-XDR-IDS",
-    "transport-platform": "https://github.com/kushalemuri18/University-Transport-Management",
+    "transport-platform": "https://github.com/kushalemuri18/Campus-ride-Azure-Serverless",
     "yolov5-detection": "https://github.com/kushalemuri18/Object-Detection-using-YOLO-V.5",
     "iot-robot": "https://github.com/kushalemuri18/IoT-Autonomous-Surveillance-Robot"
   };
